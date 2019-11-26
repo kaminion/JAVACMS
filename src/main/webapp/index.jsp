@@ -1,6 +1,6 @@
 <%@ page language="java" pageEncoding="UTF-8"%>
 
-<%@ include file="./header.jsp" %>
+<%@ include file="/header.jsp" %>
 
 <div class="jumbotron">
 	<div class="container">
@@ -9,6 +9,4 @@
 	</div>
 </div>
 
-
-
-<%@ include file="./footer.jsp" %>
+<%@ include file="/footer.jsp" %>

@@ -1,0 +1,21 @@
+/* common */
+.navbar{box-shadow: 0 3px 6px 0 rgba(175, 175, 175, 0.35);}
+.icon-bar{background-color:white;}
+.footer{position:absolute;width:100%;bottom:0;}
+
+.btn{background-color:#65bbe9}
+/* form */
+.form-signin{max-width:330px; margin:0 auto;}
+.form-control{border-color:#0094e3}
+/* login */
+input[type="password"]{margin-top:10px;margin-bottom:10px;}
+.btn-maketok{color:#ffffff;}
+.blog-post-meta{margin-bottom: 20px; color:#999}
+.checkbox {margin-left:14px;}
+.checkbox label{padding-left:0;}
+#autologin {margin-left:-13px;}
+.findInfo {position:absolute; top:0;right:0;}
+.row > .col-xs-3 {height:80px;border:1px solid;border-color:#65bbe9;color:#0094e3; margin:0 auto;}
+.container.form-signin.text-center {position:absolute;}
+
+.container.form-signin.text-center > a > span {width:60px;height:60px;color:#0094e3;}
